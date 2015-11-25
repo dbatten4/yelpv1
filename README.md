@@ -52,6 +52,7 @@ to imstall the gems and dependencies.
 To start the server, run 
 `rails s`
 and navigate to http://localhost:3000/
+You may need to run `rake db:create` to create the database.
 
 ## Running tests
 
